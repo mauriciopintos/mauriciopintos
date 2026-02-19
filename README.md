@@ -71,9 +71,10 @@ Me interesa participar en proyectos donde pueda integrar desarrollo, arquitectur
 - MSSQL / MySQL
 - MongoDB (Mongoose)
 
-**Testing**
+**Testing y Calidad**
 - JUnit / Mockito
 - Jest
+- JaCoCo
 
 **Modelado**
 - UML
