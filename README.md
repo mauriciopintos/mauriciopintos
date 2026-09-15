@@ -34,6 +34,16 @@ Aplicación web productiva con arquitectura *Backendless* centrada en la privaci
 * **Persistencia descentralizada:** Sin base de datos propia; interactúa directamente con la API de Google Sheets guardando los datos en el Google Drive del usuario.
 * **Autenticación:** Integración nativa con Google OAuth para manejo de sesiones.
 
+#### 🧩 [Asistencia SIU Guaraní PRO](https://github.com/mauriciopintos/siu-auto-asistencia)
+Extensión de navegador (Chrome, Edge, Firefox) para la automatización de procesos administrativos académicos.
+* **Funcionalidad:** Procesa listas de DNIs desde texto o Excel, aplica limpieza de formato y automatiza el marcado de asistencia con scroll interactivo en la interfaz de SIU Guaraní.
+* **Stack:** JavaScript Vanilla, Chrome Extension APIs (Content Scripts / Manifest v3), CSS.
+
+#### 🤖 [API-EDEN (Extraer Entidades Nombradas)](https://github.com/mauriciopintos/API-EDEN-JWT)
+API REST en Flask para el reconocimiento y procesamiento de lenguaje natural (NLP) sobre datos sensibles.
+* **Procesamiento híbrido:** Extracción y estructuración de datos (DNIs, patentes, correos, cuentas) integrando SpaCy, Expresiones Regulares (RegEx) y la API de OpenAI (GPT).
+* **Seguridad:** Autenticación y control de acceso mediante tokens JWT (JSON Web Tokens).
+
 #### 🎟️ [BeEvents Backend REST](https://github.com/DesApp-2024c1-Grupo4/beevents-back)
 API REST para gestión y venta de entradas a eventos.
 * **Tecnologías:** Nest.js, MongoDB, Mongoose, Render.
