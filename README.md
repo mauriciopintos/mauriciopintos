@@ -54,8 +54,14 @@ Solución de respaldos automatizados desarrollada con scripts de PowerShell y SQ
 * Incluye replicación en múltiples sitios, control de integridad de datos y copias desconectadas (*offline*) para protección contra ransomware.
 * Estandarizado y utilizado en 20 departamentos judiciales.
 
-#### 💻 [AsignaRepos](https://unahur-materias.github.io/)
-Herramientas e iniciativas web para la automatización y gestión de materias universitarias (UNAHUR).
+#### 💻 [Plataforma de Asignaciones](https://unahur-ggh-2026c2.github.io/)
+Herramientas e iniciativas web para la automatización y gestión de materias, cursos y talleres universitarios (UNAHUR).    
+
+[Repositorio Plataforma de Asignaciones](https://github.com/unahur-ggh-2026c2/unahur-ggh-2026c2.github.io)
+
+> Es una evolución de la idea original, de un gestor de asignaciones de repositorios, para reemplazar el uso de **GitHub Classroom**    
+> * [Deploy AsignaRepos](https://unahur-materias.github.io/)    
+> * [Repositorio AsignaRepos](https://github.com/UNaHur-Materias/unahur-materias.github.io)    
 
 ---
 
