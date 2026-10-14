@@ -1,4 +1,4 @@
-# Mauricio Pintos <img align="right" src="assets/foto_cv-01-NoBG-radius.png" width="120" style="border-radius:50%; margin-left:15px;" />
+# Mauricio Pintos <img align="right" src="assets/foto_cv-02-NoBG-radius.png" width="120" style="border-radius:50%; margin-left:15px;" />
 
 **Infraestructura IT & Redes | Desarrollador Fullstack | Docente Universitario**  
 📍 Buenos Aires, Argentina  
