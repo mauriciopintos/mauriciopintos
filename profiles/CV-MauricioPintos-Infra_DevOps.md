@@ -6,13 +6,13 @@
 # Mauricio Pintos <img src="../assets/foto_cv-01.png" width="120" style="border-radius: 50%; border: 4px solid grey; float: right; margin-left: 15px;" />
 
 📍 **Buenos Aires, Argentina** | 📱 +54 9 11 6583-5046
-📧 [mauricioenrique.pintos@estudiantes.unahur.edu.ar](mailto:mauricioenrique.pintos@estudiantes.unahur.edu.ar)
+📧 [mauricio.pintos@unahur.edu.ar](mailto:mauricio.pintos@unahur.edu.ar)
 🔗 [LinkedIn](https://www.linkedin.com/in/mauricio-pintos-783272240) | 💻 [GitHub](https://github.com/mauriciopintos)
 
 ---
 
 ## Perfil Profesional
-Profesional IT con más de 15 años de experiencia liderando infraestructura tecnológica, seguridad operativa y automatización en entornos productivos críticos de alta disponibilidad. Especializado en el diseño e implementación de soluciones híbridas que conectan la administración avanzada de servidores y redes perimetrales con flujos modernos de DevOps, empaquetado de imágenes, scripting y resiliencia de datos a gran escala.
+Profesional IT con más de 15 años de experiencia en infraestructura tecnológica, seguridad operativa y automatización en entornos productivos críticos de alta disponibilidad. Especializado en el diseño e implementación de soluciones híbridas que conectan la administración avanzada de servidores y redes perimetrales con flujos modernos de DevOps, empaquetado de imágenes, scripting y resiliencia de datos a gran escala.
 
 ## Habilidades Técnicas
 * **Infraestructura & Plataformas:** Windows Server, Linux, Active Directory, GPOs, SCCM (System Center Configuration Manager), VMware, Hyper-V, bases de datos (SQL, MongoDB).
@@ -32,11 +32,12 @@ Profesional IT con más de 15 años de experiencia liderando infraestructura tec
 
 #### Responsable Técnico Departamental (Delegación de Tecnología Informática del Departamento Judicial Morón - SCBA)
 *2021 – Diciembre 2025*
-* Lideré la gestión técnica del área, coordinando proyectos interdepartamentales de red, normalización de procesos y la infraestructura tecnológica departamental.
+* Responsable de la gestión técnica del área, coordinando proyectos de red, normalización de procesos y la infraestructura tecnológica departamental.
 * Administré de forma centralizada la seguridad y directivas de endpoints a través de **FortiEDR** y **ESET Console**, mitigando incidentes de malware en la red.
 * Gestioné la seguridad perimetral y conectividad mediante firewalls **FortiGates**, administrando topologías de red y túneles VPN interdepartamentales.
-* Diseñé, testeé e implementé el sistema automatizado de backups APH basado en scripts robustos con replicación multi-site cifrada y aislamiento anti-ransomware, desplegado con éxito en 20 departamentos judiciales.
+* Diseñé, testeé e implementé el sistema automatizado de backups APH basado en scripts robustos con replicación multi-site cifrada y aislamiento anti-ransomware, desplegado con éxito en varios servidores centralizados y descentralizados del departamento judicial.
 * Administré entornos distribuidos de servidores Windows/Linux, Active Directory y políticas de grupo (GPOs).
+* Realicé auditorías de Bases de Datos y los informes para responder solicitudes internas de Organismos Jurisdiccionales Departamentales.
 
 #### Soporte Técnico IT N2/N3
 *2010 – 2021*
@@ -47,7 +48,7 @@ Profesional IT con más de 15 años de experiencia liderando infraestructura tec
 
 ### Universidad Nacional de Hurlingham (UNAHUR)
 **Ayudante de Cátedra / Docente Universitario** | 2022 – Actualidad
-* Responsable del dictado de clases teóricas y prácticas, diseño de contenidos pedagógicos y evaluación en las cátedras: Programación Estructurada, Programación Orientada a Objetos 1 y Programación Orientada a Objetos 2.
+* Responsable del dictado de clases teóricas y prácticas, diseño de contenidos pedagógicos y evaluación en las cátedras: Introducción a la Lógica y Problemas Computacionales, Programación Estructurada, Bases de Datos, Programación Orientada a Objetos 1 y Programación Orientada a Objetos 2.
 * Enseñanza práctica de testing unitario, buenas prácticas de desarrollo de software, modelado UML y resolución de problemas computacionales.
 * Impulso y participación activa en el diseño y desarrollo de herramientas informáticas internas para la optimización de procesos de la institución.
 
@@ -59,6 +60,6 @@ Profesional IT con más de 15 años de experiencia liderando infraestructura tec
 * **Plataforma de Respaldo Distribuido y Estrategia Anti-Ransomware:** Arquitectura automatizada APH con replicación multi-site y backups offline diarios. (Tech: PowerShell, Linux, SQL Server).
 
 ## Formación Académica
+* **Tecnicatura Universitaria en Programación** (Finalizada en 2023) – UNAHUR
 * **Licenciatura en Informática** (En curso) – UNAHUR
 * **Tecnicatura Universitaria en Redes y Operaciones** (En curso) – UNAHUR
-* **Tecnicatura Universitaria en Programación** (Finalizada en 2023) – UNAHUR

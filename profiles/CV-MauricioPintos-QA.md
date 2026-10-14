@@ -6,7 +6,7 @@
 # Mauricio Pintos <img src="../assets/foto_cv-01.png" width="120" style="border-radius: 50%; border: 4px solid grey; float: right; margin-left: 15px;" />
 
 📍 **Buenos Aires, Argentina** | 📱 +54 9 11 6583-5046
-📧 [mauricioenrique.pintos@estudiantes.unahur.edu.ar](mailto:mauricioenrique.pintos@estudiantes.unahur.edu.ar)
+📧 [mauricio.pintos@unahur.edu.ar](mailto:mauricio.pintos@unahur.edu.ar)
 🔗 [LinkedIn](https://www.linkedin.com/in/mauricio-pintos-783272240) | 💻 [GitHub](https://github.com/mauriciopintos)
 
 ---
