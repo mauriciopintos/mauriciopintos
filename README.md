@@ -50,9 +50,9 @@ API REST para gestión y venta de entradas a eventos.
 * **Rol:** Diseño del modelo de dominio, estructura de la base de datos y endpoints REST.
 
 #### 🔐 Sistema Automatizado de Backups (APH)
-Solución de respaldos automatizados desarrollada con scripts de PowerShell y SQL Server para el Poder Judicial.
+Solución de respaldos automatizados desarrollada con scripts de PowerShell y SQL Server en el Poder Judicial.
 * Incluye replicación en múltiples sitios, control de integridad de datos y copias desconectadas (*offline*) para protección contra ransomware.
-* Estandarizado y utilizado en 20 departamentos judiciales.
+* Implementado en varios departamentos judiciales.
 
 #### 💻 [Plataforma de Asignaciones](https://unahur-ggh-2026c2.github.io/)
 Herramientas e iniciativas web para la automatización y gestión de materias, cursos y talleres universitarios (UNAHUR).    
