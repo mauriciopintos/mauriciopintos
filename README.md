@@ -13,7 +13,7 @@
 
 Tengo más de 15 años de experiencia en administración de servidores, redes y soporte crítico en el Poder Judicial de la Provincia de Buenos Aires, combinados con más de 4 años como docente universitario en carreras de informática (UNAHUR).
 
-Trabajo conectando la infraestructura tradicional (Linux/Windows Server, PowerShell, Firewalls, backups) con el desarrollo de software actual (Java, TypeScript, Nest.js, React). Me enfoco en escribir código limpio, automatizar tareas repetitivas y aplicar metodologías claras tanto en producción como en el aula.
+Trabajo conectando la infraestructura tradicional (Linux/Windows Server, PowerShell, Firewalls, backups) con el desarrollo de software actual (Java, TypeScript, Nest.js, React). Me enfoco en escribir código mantenible, para automatizar tareas repetitivas y aplicar metodologías claras tanto en producción como en el aula.
 
 ---
 
